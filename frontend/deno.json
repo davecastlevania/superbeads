@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "dev": "deno run -A npm:vite",
+    "build": "deno run -A npm:vite build",
+    "preview": "deno run -A npm:vite preview"
+  },
+  "imports": {
+    "vue": "npm:vue@^3.4",
+    "vue-router": "npm:vue-router@^4",
+    "pinia": "npm:pinia@^2"
+  }
+}

@@ -54,6 +54,9 @@ hex = "0.4"
 # Cron scheduling
 tokio-cron-scheduler = "0.10"
 
+# Async traits
+async-trait = "0.1"
+
 # Scraping
 scraper = "0.19"
 
